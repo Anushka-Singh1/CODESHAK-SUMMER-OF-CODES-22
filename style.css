@@ -1,0 +1,8 @@
+#first{ /*here we are defining style rule for class */
+
+    background-color: aqua;
+}
+.bg-blue{ /*here we are defining style rule for element in a class*/
+    background-color: blue;
+    color: white;
+}
